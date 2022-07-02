@@ -51,6 +51,19 @@ One effective way to do this is by asking a question and going around the table
 7. **How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?**  
    By get regualr feedback after the metting
 
+## **Work Process**
+
+1. **How you will identify tasks, assign tasks, know when they are complete, and manage work in general?**
+
+We are going to make continuous meetings to agree on the done and undone work. so we will divide the work between the team members in an equal way
+Then, after everyone in the team finishes working on his own part, we will rearrange the tasks based on each member's strengths to achieve the work in the
+best way.
+Also, we can track the work based on the general ideas and stories that we'll write in the documentation
+
+2. **What project management tool will be used?** 
+
+Trello
+
 ## **Git Process**
 
 1. **What components of your project will live on GitHub?**    
