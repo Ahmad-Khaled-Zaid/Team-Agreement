@@ -50,3 +50,24 @@ One effective way to do this is by asking a question and going around the table
 
 7. **How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?**  
    By get regualr feedback after the metting
+
+## **Git Process**
+
+1. **What components of your project will live on GitHub?**    
+   Main files of the project, like the code, documentation, etc..
+
+2. **How will you share the repository with your teammates?**     
+   By inviting them to the repository, and giving them access to modify, push and merge.
+
+3. **What is your Git flow?**    
+   We will be using the `Gitflow Workflow`, where there will be multiple primary branches other than the main, and the main will only be for releases, `PR review workflow` will be used also with it, so it's kind of a hybrid.
+4. **Will you be using a PR review workflow? If so, consider:**      
+   Yes, it will be used.
+   - **How many people must review a PR?**      
+      One to two people max.
+   - **Who merges PRs?**      
+      The team leader after review.
+   - **How often will you merge?**     
+      Whenever a feature is completely finished, and passed the review.
+   - **How will you communicate that it’s time to merge?**     
+      The team leader will be informed first via messaging, then the entire team after review via the group chat.
