@@ -9,10 +9,14 @@
 
 ## **Cooperation Plan**
 
-What are the key strengths of each person on the team?  
-How can you best utilize these strengths in the execution of your project?  
-In which professional competencies do you each want to develop greater strength?  
-Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
+### 1. What are the key strengths of each person on the team?  
+   Each individual in this team is a serious, hard-working member who is looking to go through challenges to gain real work experience which will put the team 100 miles above.
+###  2. How can you best utilize these strengths in the execution of your project?  
+   By dividing the project into parts and give each member what he is able to deal with professionally.
+### 3. In which professional competencies do you each want to develop greater strength?  
+   Becoming the best versions of ourselves by taking the challenge in developing this project.
+### 4. Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
+   By scheduling "tasks to get done" and divide it on the members and make sure the communication goes well.
 
 ## **Conflict Plan**
 
